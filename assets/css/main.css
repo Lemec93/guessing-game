@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#feedback {
+    font-weight: bold;
+}
+
+#attemptsLeft {
+    font-style: italic;
+}
